@@ -1,6 +1,9 @@
 **Indonesian Journal of Electronics and Instrumentation Systems (IJEIS)**
+
 Vol.9, No.2, October 2019, pp. 131~140
+
 ISSN (print): 2088-3714, ISSN (online): 2460-7681
+
 DOI: https://doi.org/10.22146/ijeis.47609
 
 ---
