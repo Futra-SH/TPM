@@ -7,7 +7,7 @@ ISSN (print): 2088-3714, ISSN (online): 2460-7681
 DOI: https://doi.org/10.22146/ijeis.47609
 
 ---
-##<center>Model Identifikasi Kata Ucapan Tuna Wicara</center>
+## <center>Model Identifikasi Kata Ucapan Tuna Wicara</center>
 
 <center>Nuruddin Wiranda*1, Agfianto Eko Putra2</center>
 <center>1Program Studi Pendidikan Ilmu Komputer, FKIP, ULM, Banjarmasin, Indonesia</center>
